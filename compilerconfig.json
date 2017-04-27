@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "css/default.css",
+    "inputFile": "css/default.scss"
+  },
+  {
+    "outputFile": "css/master.css",
+    "inputFile": "css/master.scss"
+  }
+]
